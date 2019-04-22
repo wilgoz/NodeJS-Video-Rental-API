@@ -1,4 +1,4 @@
-# NodeJS Video Rental App
+# NodeJS Video Rental API
 
 My first `Node.js` application, using the `Express.js` framework to build web APIs and `Mongoose` ORM to manipulate `MongoDB`.
 
